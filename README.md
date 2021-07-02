@@ -12,7 +12,7 @@
 
 <br />
 
-## Stats and Stack
+<p align="center"> ## Stats and Stack />
 
 <br />
 
