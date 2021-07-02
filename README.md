@@ -1,4 +1,4 @@
-### Hello World! I'm Dustin , Don't mind me - im just trying to : 
+# Hello World! I'm Dustin , Don't mind me - im just trying to : 
 ![Alt Text](https://steamuserimages-a.akamaihd.net/ugc/946202334138162960/47F5A8849FF0A49A56D22F9DD435A88D9B38F558/)
 
 
@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I have ADHD , so coding is for me .
 
 
-#### 📫 How to reach me:
+### 📫 How to reach me:
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/dustin-guichet-b72a871bb/)
 [<img src="https://img.icons8.com/color/48/000000/stack-overflow.png" width="3.5%"/>](https://stackoverflow.com/users/16338926/dustin-guichet)
 <a href="mailto:dustin.guichet@protonmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
