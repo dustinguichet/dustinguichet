@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning SQL
 - 👯 I’m looking to collaborate with other curious people
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Become more consistent and curious with technology.
 - ⚡ Fun fact: I have ADHD , so coding is for me .
 
 <br />
