@@ -13,7 +13,7 @@
 
 ### 📫 How to reach me:
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="7%"/>](https://www.linkedin.com/in/dustin-guichet-b72a871bb/)
-[<img src="https://img.icons8.com/color/48/000000/stack-overflow.png" width="3.5%"/>](https://stackoverflow.com/users/16338926/dustin-guichet)
+[<img src="https://img.icons8.com/color/48/000000/stack-overflow.png" width="7%"/>](https://stackoverflow.com/users/16338926/dustin-guichet)
 <a href="mailto:dustin.guichet@protonmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 <br />
 <br />
