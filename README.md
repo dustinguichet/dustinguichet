@@ -19,7 +19,7 @@
 <br />
 <br />
 ### 💰 Support The Creator
-[<img src="https://github.com/dustinguichet/dustinguichet/blob/743836d1f1daf6fb363b671b17c1f4fbba523bfa/favicon-32x32.png" width="7%"/>](https://www.buymeacoffee.com/dustinguichet)[<img src="https://github.com/dustinguichet/dustinguichet/blob/743836d1f1daf6fb363b671b17c1f4fbba523bfa/favicon-32x32%20copy.png" width="3.5%"/>](https://my-store-ba1902-2.creator-spring.com)
+[<img src="https://github.com/dustinguichet/dustinguichet/blob/743836d1f1daf6fb363b671b17c1f4fbba523bfa/favicon-32x32.png" width="7%"/>](https://www.buymeacoffee.com/dustinguichet)[<img src="https://github.com/dustinguichet/dustinguichet/blob/743836d1f1daf6fb363b671b17c1f4fbba523bfa/favicon-32x32%20copy.png" width="7%"/>](https://my-store-ba1902-2.creator-spring.com)
 
 
 <br />
