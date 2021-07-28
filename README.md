@@ -12,15 +12,15 @@
 
 
 ### 📫 How to reach me:
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="7%"/>](https://www.linkedin.com/in/dustin-guichet-b72a871bb/)
-[<img src="https://img.icons8.com/color/48/000000/stack-overflow.png" width="7%"/>](https://stackoverflow.com/users/16338926/dustin-guichet)
-<a href="mailto:dustin.guichet@protonmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="7%"/> </a>
-[<img src="https://assets-global.website-files.com/5ec7d9f13fc8c0ec8a4c6b26/6092b794e0419d97d9b06e2b_Favicon%20256.png" width="7%"/>](https://www.upwork.com/freelancers/~01a7b8722cf438e53f)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="8%"/>](https://www.linkedin.com/in/dustin-guichet-b72a871bb/)
+[<img src="https://img.icons8.com/color/48/000000/stack-overflow.png" width="8%"/>](https://stackoverflow.com/users/16338926/dustin-guichet)
+<a href="mailto:dustin.guichet@protonmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="8%"/> </a>
+[<img src="https://assets-global.website-files.com/5ec7d9f13fc8c0ec8a4c6b26/6092b794e0419d97d9b06e2b_Favicon%20256.png" width="8%"/>](https://www.upwork.com/freelancers/~01a7b8722cf438e53f)
 <br />
 <br />
 <br />
 ### 💰 Support The Creator
-[<img src="https://github.com/dustinguichet/dustinguichet/blob/743836d1f1daf6fb363b671b17c1f4fbba523bfa/favicon-32x32.png" width="7%"/>](https://www.buymeacoffee.com/dustinguichet)[<img src="https://github.com/dustinguichet/dustinguichet/blob/743836d1f1daf6fb363b671b17c1f4fbba523bfa/favicon-32x32%20copy.png" width="7%"/>](https://my-store-ba1902-2.creator-spring.com)
+[<img src="https://github.com/dustinguichet/dustinguichet/blob/743836d1f1daf6fb363b671b17c1f4fbba523bfa/favicon-32x32.png" width="8%"/>](https://www.buymeacoffee.com/dustinguichet)[<img src="https://github.com/dustinguichet/dustinguichet/blob/743836d1f1daf6fb363b671b17c1f4fbba523bfa/favicon-32x32%20copy.png" width="8%"/>](https://my-store-ba1902-2.creator-spring.com)
 
 
 <br />
