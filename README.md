@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently Seeking Employments With Mentorship Opportunities.
 - 👯 I’m looking to collaborate with other curious people
-- 🥅 2021 Goals: Become more consistent and curious with technology.
+- 🥅 2021 Goals: To complete the game im working on with HHTML,CSS,JS
 - ⚡ Fun fact: I have ADHD , and I'm left-handed for what thats worth.
 
 
