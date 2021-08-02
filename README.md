@@ -5,10 +5,13 @@
 ## I'm a Husband, Father, Developer!
 
 
-- 🌱 I’m currently Seeking Employments With Mentorship Opportunities.
-- 👯 I’m looking to collaborate with other curious people
-- 🥅 2021 Goals: To complete the game im working on with HHTML,CSS,JS
-- ⚡ Fun fact: I have ADHD , and I'm left-handed for what thats worth.
+- 🌱 Growth: I’m currently Seeking Employments With Mentorship Opportunities.
+
+- 👯 Community: I’m looking to meet awesome people in the tech industry, and contribute to a non-profit
+
+- 🥅 2021 Goals: To complete the pokemon-like game im working on with HTML,CSS,JS
+
+- ⚡ Fun Facts: I have ADHD , and I'm left-handed!
 
 
 ### 📫 How to reach me:
