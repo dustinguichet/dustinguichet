@@ -5,7 +5,7 @@
 ## I'm a Husband, Father of Two, Engineer!
 
 
-- 🌱 Growth: I’m currently Seeking Employments With Mentorship Opportunities.
+- 🌱 Growth: I’m currently Seeking Employments With Mentorship Opportunities, and learning: C#, .Net, Selenium.
 
 - 👯 Community: I’m looking to meet awesome people in the tech industry, and contribute to a non-profit
 
