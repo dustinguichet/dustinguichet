@@ -2,7 +2,7 @@
 ![Alt Text](https://steamuserimages-a.akamaihd.net/ugc/946202334138162960/47F5A8849FF0A49A56D22F9DD435A88D9B38F558/)
 
 
-## I'm a Husband, Father of Two, Developer!
+## I'm a Husband, Father of Two, Engineer!
 
 
 - 🌱 Growth: I’m currently Seeking Employments With Mentorship Opportunities.
