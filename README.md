@@ -5,7 +5,7 @@
 ## I'm a Husband, Father of Two, Engineer!
 
 
-- 🌱 Growth: I’m currently Seeking Employments With Mentorship Opportunities, and learning more in depth React Native, and Firebase
+- 🌱 Growth: I’m currently Seeking Employments With Mentorship Opportunities, and learning more in depth React.JS, React Native, and Firebase
 
 - 👯 Community: I’m looking to meet awesome people in the tech industry, and contribute to a non-profit
 
