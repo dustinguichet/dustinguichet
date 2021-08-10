@@ -5,13 +5,13 @@
 ## I'm a Husband, Father of Two, Engineer!
 
 
-- 🌱 Growth: I’m currently Seeking Employments With Mentorship Opportunities, and learning: C#, .Net, Selenium.
+- 🌱 Growth: I’m currently Seeking Employments With Mentorship Opportunities, and learning more in depth React Native, and Firebase
 
 - 👯 Community: I’m looking to meet awesome people in the tech industry, and contribute to a non-profit
 
 - 🥅 2021 Goals: To complete the pokemon-like game im working on with HTML,CSS,JS
 
-- ⚡ Fun Facts: I have ADHD , and I'm left-handed!
+- ⚡ Fun Fact: I'm left-handed!
 
 
 ### 📫 How to reach me:
