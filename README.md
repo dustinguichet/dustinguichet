@@ -1,5 +1,5 @@
 # Hello, World! I'm Dustin , Don't mind me - im just trying to : 
-![Alt Text](https://steamuserimages-a.akamaihd.net/ugc/946202334138162960/47F5A8849FF0A49A56D22F9DD435A88D9B38F558/)
+![Alt Text](https://i.imgur.com/qgpcufH.gif)
 
 
 ## I'm a Husband, Father of Two, Engineer!
