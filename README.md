@@ -5,11 +5,11 @@
 ## I'm a Husband, Father of Two, Engineer!
 
 
-- 🌱 Growth: I’m currently Seeking Employments With Mentorship Opportunities, and learning more in depth React.JS, React Native, and Firebase
+- 🌱 Growth: I’m currently Learning C# and .Net after Javascript and React to increase my depth as an Engineer.
 
-- 👯 Community: I’m looking to meet awesome people in the tech industry, and contribute to a non-profit
+- 👯 Community: I’m looking to meet awesome people in the tech industry, and contribute to local non-profits for free.
 
-- 🥅 2021 Goals: To complete the pokemon-like game im working on with HTML,CSS,JS
+- 🥅 2022 Goals: Relationships: Stengthen my marriage by being intentional with our love languages, become a father a child can be proud of by focusing on growth, and focusing on the people around me. Career: Continue learning daily, including daily commitments. developing a yearly plan before February. Finances: To be completely out of debt, focus on adding value to my house, and making smart controllable investing decisions within our current market. Keeping investment funds to around 50% of income. 
 
 - ⚡ Fun Fact: I'm left-handed!
 
