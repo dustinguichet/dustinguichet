@@ -12,7 +12,7 @@
 
 - 🥅 2022 Goals: Relationships: Stengthen my marriage by being intentional with our love languages, become a father a child can be proud of by focusing on growth, and focusing on the people around me. Career: Continue learning daily, including daily commitments. developing a yearly plan before February. Finances: To be completely out of debt, focus on adding value to my house, and making smart controllable investing decisions within our current market. Keeping investment funds to around 50% of income. 
 
-- ⚡Fun Fact: I'm left-handed!
+-⚡Fun Fact: I'm left-handed!
 
 
 ### 📫 How to reach me:
