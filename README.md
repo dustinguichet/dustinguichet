@@ -4,6 +4,7 @@
 
 ## I'm a Husband, Father of Two, Engineer!
 
+- 💼 Employment: Seeking Employment with InfoSys to serve clients, and grow at light speed given their world class training programs.
 
 - 🌱 Growth: I’m currently Learning C# and .Net after Javascript and React to increase my depth as an Engineer.
 
